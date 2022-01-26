@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigracionAspelCOIVersion8AVersion9", "MigracionAspelCOIVersion8AVersion9\MigracionAspelCOIVersion8AVersion9.csproj", "{3092B87A-BD42-4154-A780-737CE3AACC07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigracionAspelCOIVersion8AVersion9", "MigracionAspelCOIVersion8AVersion9\MigracionAspelCOIVersion8AVersion9.csproj", "{3092B87A-BD42-4154-A780-737CE3AACC07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9F700F27-ADD9-403C-8CF6-CFDED85E074D}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
