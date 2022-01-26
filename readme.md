@@ -11,3 +11,7 @@ de la version 9 de COI dentro de Dacaspel.
 Quedando el comando de la siguiente manera: 
 
 .\MIGCOI.exe "C:\Program Files (x86)\Common Files\Aspel\Sistemas Aspel\COI9.00\"
+
+Por ultimo renombramos el archvio resultante Conexiones9.ini a Conexiones.ini, respaldando el archivo previamente.
+
+Las carpetas que contienen los reportes se generan automaticamente al ingresar a cada empresa Datos1, Datos2, Datos3, etc.
